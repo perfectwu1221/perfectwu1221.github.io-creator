@@ -1,0 +1,4 @@
+baseURL = "https://perfectwu1221.github.io/."
+languageCode = "zh-Hans"
+title = "吴鹏飞的博客"
+theme = "ananke"
